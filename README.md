@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dawidrez
 - 👀 I’m interested in Computer Science and sport.
-- 🌱 I’m currently studying computer science at Gdansk University of Technology(4 semester).
+- 🌱 I’m currently studying computer science at Gdansk University of Technology(5 semester).
+
 
 
 <!---
