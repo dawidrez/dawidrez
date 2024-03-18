@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @dawidrez
-- 👀 I’m interested in Computer Science and sport.
-- 🌱 I’m currently studying computer science at Gdansk University of Technology(7 semester).
+Backend developer and recent Computer Science graduate from Gdansk University of Technology (GUT). Enthusiastic about sports, with a focus on running, biking, and swimming, and gearing up for triathlon challenges this year. Keen on expanding knowledge in AI.
+
+How to reach me:
+https://www.linkedin.com/in/dawid-rezmer-061805271/
+
 
 
 
