@@ -5,8 +5,11 @@ Outside of coding, I'm passionate about sports. I regularly train and have parti
 Professional experience in:
 
 Programming languages: Python
+
 Web frameworks: Django, Flask, FastAPI
+
 Relational databases: PostgreSQL, MySQL
+
 Other: Docker, Celery, RabbitMQ, AWS, Microsoft Azure, Kubernetes
 
 
